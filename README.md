@@ -2,7 +2,7 @@
 
 ## Parte 1
 
-O programa exibe uma *race condition*, que pode ser corrigida através do uso de *synchronized* nos métodos que modificam a conta. Assim, o mesmo método não pode ser chamado duas vezes ao mesmo tempo em um objeto.
+O programa exibe uma *race condition*, que pode ser corrigida através do uso de *synchronized* nos métodos que modificam a conta. Assim, o mesmo método não pode ser chamado duas vezes ao mesmo tempo em um objeto.  
 Original:
 
 TBD
